@@ -13,7 +13,7 @@
     "label": "Product Service Blueprints",
     "type": "internal",
     "handleClick": {
-      "link": "/categories",
+      "link": "/components",
       "type": "internal",
       "setFilter": {
         "filterKey": "embedded.nl.embedded.commonground.layerType",
@@ -28,7 +28,7 @@
       "pathname": "/categories"
     },
     "handleClick": {
-      "link": "/categories",
+      "link": "/components",
       "type": "internal",
       "setFilter": {
         "filterKey": "softwareType",
