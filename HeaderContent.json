@@ -16,7 +16,7 @@
       "link": "/components",
       "type": "internal",
       "setFilter": {
-        "filterKey": "embedded.nl.embedded.commonground.layerType",
+        "filterKey": "softwareType",
         "value": "process"
       }
     }
