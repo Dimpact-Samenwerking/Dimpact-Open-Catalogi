@@ -19,7 +19,7 @@ jobs:
         with:
           opencatalogi: true
       - name: Create an Open Catalogi page
-        uses: OpenCatalogi/opencatalogi-action@1.1.8
+        uses: OpenCatalogi/opencatalogi-action@1.1.11
         with:
           github_repository_name_as_prefix: false
           nl_design_theme_classname: 'dimpact-theme'
