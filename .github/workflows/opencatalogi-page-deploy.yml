@@ -34,6 +34,7 @@ jobs:
           jumbotron_description: 'false'
           jumbotron_searchform: "true"
           # Filters
+          filter_forks: 'false'
           filter_upl: 'false'
           filter_organisation: 'false'
           filter_business_functions: 'false'
@@ -41,4 +42,7 @@ jobs:
           filter_license: 'false'
           filter_maintenance_types: 'false'
           filter_rating: 'false'
+          filter_category: 'false'
+          filter_platforms: 'false'
+          filter_business_services: 'false'
 
