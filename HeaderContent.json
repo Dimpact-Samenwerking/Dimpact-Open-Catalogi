@@ -12,6 +12,13 @@
  {
     "label": "Service Blueprints",
     "type": "internal",
+    "current": {
+      "pathname": "/components",
+      "filterCondition": {
+        "filterKey": "softwareType",
+        "value": "process"
+      }
+    },
     "handleClick": {
       "link": "/components",
       "type": "internal",
@@ -25,7 +32,11 @@
     "label": "Formulier Configuraties",
     "type": "internal",
     "current": {
-      "pathname": "/categories"
+      "pathname": "/components",
+      "filterCondition": {
+        "filterKey": "softwareType",
+        "value": "configurationFiles"
+      }
     },
     "handleClick": {
       "link": "/components",
