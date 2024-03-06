@@ -1,3 +1,3 @@
-## Welkom bij dé commonground catalogus van dimpact
+## Welkom bij dé Common Ground catalogus van Dimpact
 
-Een open source catalogus symboliseert onze overtuiging dat ware samenwerking wortelt in het delen van kennis en het gezamenlijk cultiveren van inzicht, omdat alleen door onze collectieve wijsheid te bundelen, we de grenzen van mogelijkheden kunnen verleggen.
+Het succes van Common Ground staat of valt met goede samenwerking. Met deze open source catalogus bundelen we kennis en delen componenten. Zo verleggen we met elkaar grenzen en verbeteren de publieke dienstverlening.
