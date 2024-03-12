@@ -25,6 +25,7 @@ jobs:
           nl_design_theme_classname: 'dimpact-theme'
           pull_from_branche: 'development'
           start_page: 'https://github.com/Dimpact-Samenwerking/Dimpact-Open-Catalogi/blob/main/README.md'
+          page_title: 'Dimpact Catalogi'
           footer_content: 'https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Open-Catalogi/main/FooterContent.json'
           navbar_content: 'https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Open-Catalogi/main/HeaderContent.json'
           navbar_logo: 'https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg'
