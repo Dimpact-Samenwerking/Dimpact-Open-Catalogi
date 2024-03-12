@@ -32,7 +32,6 @@ jobs:
           jumbotron_title: "Dimpact Catalogi"
           jumbotron_subtitle: 'false'
           jumbotron_description: 'false'
-          jumbotron_searchform: "true"
           # Filters
           filter_forks: 'false'
           filter_upl: 'false'
