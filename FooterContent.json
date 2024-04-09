@@ -3,30 +3,30 @@
     "title": "Publicaties",
     "items": [
       {
-        "value": "Processes",
+        "value": "Service Blueprints",
         "ariaLabel": "Processes",
         "setFilter": { "filter": "softwareType", "value": "process", "link": "/components" },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
       },
       {
-        "value": "Data models",
-        "ariaLabel": "Data models",
+        "value": "Formulieren",
+        "ariaLabel": "Formulier configuraties",
         "setFilter": { "filter": "softwareType", "value": "schema", "link": "/components" },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
       },
       {
-        "value": "API's",
-        "ariaLabel": "API's",
-        "setFilter": { "filter": "softwareType", "value": "api", "link": "/components" },
+        "value": "Zaaktypen",
+        "ariaLabel": "Zaaktypen",
+        "setFilter": { "filter": "softwareType", "value": "schema", "link": "/components" },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
       },
       {
-        "value": "Initiatives",
-        "ariaLabel": "Initiatives",
-        "setFilter": { "filter": "softwareType", "value": "concept", "link": "/components" },
+        "value": "Objecttypen",
+        "ariaLabel": "Objecttypen",
+        "setFilter": { "filter": "softwareType", "value": "schema", "link": "/components" },
         "icon": { "prefix": "fas", "icon": "arrow-right", "placement": "left" }
       }
-    ]
+      ]
   },
   {
     "title": "Documentation",

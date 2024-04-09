@@ -10,7 +10,7 @@
     }
  },
  {
-    "label": "Product Service Blueprints",
+    "label": "Service Blueprints",
     "type": "internal",
     "handleClick": {
       "link": "/components",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "label": "Formulier Configuraties",
+    "label": "Configuraties",
     "type": "internal",
     "current": {
       "pathname": "/categories"
