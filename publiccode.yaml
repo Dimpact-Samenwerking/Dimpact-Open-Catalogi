@@ -1,19 +1,51 @@
+applicationSuite: ''
 categories:
 - it-development
+dependsOn:
+  open:
+  - name: common-gateway
+  - versionMin: 1.0.0
 description:
   en:
-    apiDocumentation: ''
+    apiDocumentation: https://github.com/OpenCatalogi/api/blob/master/OAS.yaml
     awards: []
-    documentation: ''
-    features: []
+    documentation: https://documentatie.opencatalogi.nl/
+    features:
+    - Just one feature
     genericName: Voor het testen van Open-Catalogi
-    localisedName: ''
-    longDescription: ''
+    localisedName: Dimpact OpenCatalogs
+    longDescription: The success of Common Ground depends on good cooperation. With
+      this open source catalog we bundle knowledge and share components. In this way
+      we push boundaries together and improve public services.
     screenshots: []
-    shortDescription: ''
+    shortDescription: Dimpact OpenCatalogs for testing OpenCatalogs
+    videos: []
+  nl:
+    apiDocumentation: https://github.com/OpenCatalogi/api/blob/master/OAS.yaml
+    awards: []
+    documentation: https://documentatie.opencatalogi.nl/
+    features:
+    - Just one feature
+    genericName: Voor het testen van Open-Catalogi
+    localisedName: OpenCatalogi
+    longDescription: Het succes van Common Ground staat of valt met goede samenwerking.
+      Met deze open source catalogus bundelen we kennis en delen componenten. Zo verleggen
+      we met elkaar grenzen en verbeteren de publieke dienstverlening.
+    screenshots: []
+    shortDescription: Dimpact OpenCatalogi voor het testen van OpenCatalogi
     videos: []
 developmentStatus: development
-landingURL: ''
+downloadUrls:
+- https://github.com/Dimpact-Samenwerking/Dimpact-Open-Catalogi/archive/refs/heads/main.zip
+intendedAudience:
+  countries:
+  - nl
+  scope:
+  - government
+  - local-authorities
+  unsupportedCountries: []
+isBasedOn: null
+landingURL: https://github.com/Dimpact-Samenwerking/Dimpact-Open-Catalogi
 legal:
   authorsFile: ''
   license: ''
@@ -22,26 +54,34 @@ legal:
 localisation:
   availableLanguages:
   - en
+  - nl
   localisationReady: false
+logo: https://raw.githubusercontent.com/Dimpact-Samenwerking/Dimpact-Service-Blueprints/feature-oc/logo_dimpact.svg
 maintenance:
   contacts: []
   contractors: []
   type: none
+monochromeLogo: null
 name: Dimpact-Open-Catalogi
 nl:
+  countryExtensionVersion: null
   vng:
-    commonground: []
+    commonground:
+      installationType: null
+      intendedOrganisations: []
+      layerType: interface
     gemma: []
+    upl: []
 organisation:
   logo: https://avatars.githubusercontent.com/u/55496933?v=4
   name: Dimpact-Samenwerking
   url: Dimpact-Samenwerking
 platforms:
 - web
-publiccodeYmlVersion: '0.2'
-releaseDate: '2024-02-28'
+publiccodeYmlVersion: '0.3'
+releaseDate: 2024-02-28
 roadmap: ''
 softwareType: standalone/web
-softwareVersion: ''
+softwareVersion: 1.0
 url: https://github.com/Dimpact-Samenwerking/Dimpact-Open-Catalogi
 usedBy: []

@@ -12,11 +12,18 @@
  {
     "label": "Service Blueprints",
     "type": "internal",
+    "current": {
+      "pathname": "/components",
+      "filterCondition": {
+        "filterKey": "softwareType",
+        "value": "process"
+      }
+    },
     "handleClick": {
       "link": "/components",
       "type": "internal",
       "setFilter": {
-        "filterKey": "embedded.nl.embedded.commonground.layerType",
+        "filterKey": "softwareType",
         "value": "process"
       }
     }
@@ -25,7 +32,11 @@
     "label": "Configuraties",
     "type": "internal",
     "current": {
-      "pathname": "/categories"
+      "pathname": "/components",
+      "filterCondition": {
+        "filterKey": "softwareType",
+        "value": "configurationFiles"
+      }
     },
     "handleClick": {
       "link": "/components",
